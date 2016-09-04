@@ -1,0 +1,8 @@
+mdpb0_si1760 /home/ps/kaldi/egs/timit/s5/../../../tools/sph2pipe_v2.5/sph2pipe -f wav /home/ps/timit/train/dr7/mdpb0/si1760.wav |
+mdpb0_si2126 /home/ps/kaldi/egs/timit/s5/../../../tools/sph2pipe_v2.5/sph2pipe -f wav /home/ps/timit/train/dr7/mdpb0/si2126.wav |
+mdpb0_si866 /home/ps/kaldi/egs/timit/s5/../../../tools/sph2pipe_v2.5/sph2pipe -f wav /home/ps/timit/train/dr7/mdpb0/si866.wav |
+mdpb0_sx146 /home/ps/kaldi/egs/timit/s5/../../../tools/sph2pipe_v2.5/sph2pipe -f wav /home/ps/timit/train/dr7/mdpb0/sx146.wav |
+mdpb0_sx236 /home/ps/kaldi/egs/timit/s5/../../../tools/sph2pipe_v2.5/sph2pipe -f wav /home/ps/timit/train/dr7/mdpb0/sx236.wav |
+mdpb0_sx326 /home/ps/kaldi/egs/timit/s5/../../../tools/sph2pipe_v2.5/sph2pipe -f wav /home/ps/timit/train/dr7/mdpb0/sx326.wav |
+mdpb0_sx416 /home/ps/kaldi/egs/timit/s5/../../../tools/sph2pipe_v2.5/sph2pipe -f wav /home/ps/timit/train/dr7/mdpb0/sx416.wav |
+mdpb0_sx56 /home/ps/kaldi/egs/timit/s5/../../../tools/sph2pipe_v2.5/sph2pipe -f wav /home/ps/timit/train/dr7/mdpb0/sx56.wav |

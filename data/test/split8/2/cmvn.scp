@@ -1,0 +1,3 @@
+fmgd0 /home/ps/kaldi/egs/timit/s5/mfcc/cmvn_test.ark:741
+fmld0 /home/ps/kaldi/egs/timit/s5/mfcc/cmvn_test.ark:986
+fnlp0 /home/ps/kaldi/egs/timit/s5/mfcc/cmvn_test.ark:1231

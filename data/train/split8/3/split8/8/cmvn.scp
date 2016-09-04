@@ -1,0 +1,8 @@
+mcef0 /home/ps/kaldi/egs/timit/s5/mfcc/cmvn_train.ark:40676
+mcew0 /home/ps/kaldi/egs/timit/s5/mfcc/cmvn_train.ark:40921
+mchl0 /home/ps/kaldi/egs/timit/s5/mfcc/cmvn_train.ark:41166
+mclk0 /home/ps/kaldi/egs/timit/s5/mfcc/cmvn_train.ark:41411
+mclm0 /home/ps/kaldi/egs/timit/s5/mfcc/cmvn_train.ark:41656
+mcpm0 /home/ps/kaldi/egs/timit/s5/mfcc/cmvn_train.ark:41901
+mcre0 /home/ps/kaldi/egs/timit/s5/mfcc/cmvn_train.ark:42146
+mcss0 /home/ps/kaldi/egs/timit/s5/mfcc/cmvn_train.ark:42391

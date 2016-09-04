@@ -1,0 +1,16 @@
+mtas1_si1473 /home/ps/kaldi/egs/timit/s5/mfcc/raw_mfcc_test.7.ark:67845
+mtas1_si2098 /home/ps/kaldi/egs/timit/s5/mfcc/raw_mfcc_test.7.ark:69868
+mtas1_si838 /home/ps/kaldi/egs/timit/s5/mfcc/raw_mfcc_test.7.ark:74113
+mtas1_sx118 /home/ps/kaldi/egs/timit/s5/mfcc/raw_mfcc_test.7.ark:77669
+mtas1_sx208 /home/ps/kaldi/egs/timit/s5/mfcc/raw_mfcc_test.7.ark:81446
+mtas1_sx28 /home/ps/kaldi/egs/timit/s5/mfcc/raw_mfcc_test.7.ark:86119
+mtas1_sx298 /home/ps/kaldi/egs/timit/s5/mfcc/raw_mfcc_test.7.ark:89454
+mtas1_sx388 /home/ps/kaldi/egs/timit/s5/mfcc/raw_mfcc_test.7.ark:93699
+mtls0_si1370 /home/ps/kaldi/egs/timit/s5/mfcc/raw_mfcc_test.8.ark:13
+mtls0_si2000 /home/ps/kaldi/egs/timit/s5/mfcc/raw_mfcc_test.8.ark:5455
+mtls0_si740 /home/ps/kaldi/egs/timit/s5/mfcc/raw_mfcc_test.8.ark:9297
+mtls0_sx110 /home/ps/kaldi/egs/timit/s5/mfcc/raw_mfcc_test.8.ark:12242
+mtls0_sx20 /home/ps/kaldi/egs/timit/s5/mfcc/raw_mfcc_test.8.ark:16772
+mtls0_sx200 /home/ps/kaldi/egs/timit/s5/mfcc/raw_mfcc_test.8.ark:20796
+mtls0_sx290 /home/ps/kaldi/egs/timit/s5/mfcc/raw_mfcc_test.8.ark:24209
+mtls0_sx380 /home/ps/kaldi/egs/timit/s5/mfcc/raw_mfcc_test.8.ark:28467

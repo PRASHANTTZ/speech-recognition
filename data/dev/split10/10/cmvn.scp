@@ -1,0 +1,5 @@
+mtaa0 /home/ps/kaldi/egs/timit/s5/mfcc/cmvn_dev.ark:11031
+mtdt0 /home/ps/kaldi/egs/timit/s5/mfcc/cmvn_dev.ark:11276
+mteb0 /home/ps/kaldi/egs/timit/s5/mfcc/cmvn_dev.ark:11521
+mthc0 /home/ps/kaldi/egs/timit/s5/mfcc/cmvn_dev.ark:11766
+mwjg0 /home/ps/kaldi/egs/timit/s5/mfcc/cmvn_dev.ark:12011

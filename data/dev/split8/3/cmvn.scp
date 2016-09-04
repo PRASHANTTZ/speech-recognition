@@ -1,0 +1,6 @@
+fmah0 /home/ps/kaldi/egs/timit/s5/mfcc/cmvn_dev.ark:3191
+fmml0 /home/ps/kaldi/egs/timit/s5/mfcc/cmvn_dev.ark:3436
+fnmr0 /home/ps/kaldi/egs/timit/s5/mfcc/cmvn_dev.ark:3681
+frew0 /home/ps/kaldi/egs/timit/s5/mfcc/cmvn_dev.ark:3926
+fsem0 /home/ps/kaldi/egs/timit/s5/mfcc/cmvn_dev.ark:4171
+majc0 /home/ps/kaldi/egs/timit/s5/mfcc/cmvn_dev.ark:4416

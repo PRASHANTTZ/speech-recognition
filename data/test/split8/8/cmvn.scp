@@ -1,0 +1,3 @@
+mtls0 /home/ps/kaldi/egs/timit/s5/mfcc/cmvn_test.ark:5151
+mwbt0 /home/ps/kaldi/egs/timit/s5/mfcc/cmvn_test.ark:5396
+mwew0 /home/ps/kaldi/egs/timit/s5/mfcc/cmvn_test.ark:5641
